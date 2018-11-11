@@ -1,0 +1,40 @@
+body{
+    background-color: #eee;
+    font-family: 'Work Sans', sans-serif;
+    height: 100vh;
+    
+}
+.socialpost{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around ;
+    
+}
+header{
+    display: flex;
+    flex-direction: column;
+    
+}
+h1{
+    align-self: center;
+    color: #1ECEFD;
+    font-family: 'Princess Sofia', cursive;
+    font-size: 3em;
+
+}
+
+.main{
+    background-color: white;
+    border: 2px solid black;
+    position: relative;
+}
+
+p{
+    display: inline-block;
+}
+
+.x{
+    position: absolute;
+    right: 5%;
+}
+
